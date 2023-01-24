@@ -1,0 +1,6 @@
+name: zero2prod
+channels:
+    - conda-forge
+dependencies:
+    - rust
+    - postgresql
